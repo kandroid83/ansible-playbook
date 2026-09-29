@@ -1,0 +1,6 @@
+roles/*
+!roles/.gitkeep
+*.retry
+*.log
+.vscode/
+.idea/
